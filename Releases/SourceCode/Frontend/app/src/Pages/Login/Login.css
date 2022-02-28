@@ -1,0 +1,15 @@
+.login-img {
+  border-radius: 20px;
+  border: solid 1px rgb(255, 209, 148);
+}
+.login-area {
+  background-color: antiquewhite;
+  border-radius: 20px;
+  padding: 44px;
+}
+.login-top {
+  margin-top: 10%;
+}
+.signin-btn{
+  background-color: rgb(255, 178, 78);
+}
